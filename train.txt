@@ -1,2 +1,5 @@
 hello this is Susan
 I'm trying to learn git
+
+today is day-3
+last day to practise git
